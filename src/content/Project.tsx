@@ -43,7 +43,7 @@ export default function Project() {
             <div className="p-2 w-[100px] sm:w-[150px] text-center bg-[#111827] rounded-3xl text-gray-300 sm:text-xl">Typescript</div>
           </p>
           <div className="m-0 w-[380px] sm:w-[630px] h-[30px] pt-2">
-            <a href="" target="_blank" className="w-[22px]"><img src={open_link} alt="project_link" className="h-full" /></a>
+            <a href="https://github.com/sahilGomes/portfolio" target="_blank" className="w-[22px]"><img src={open_link} alt="project_link" className="h-full" /></a>
           </div>
         </div>
         <div className="project1 w-[380px] sm:w-[630px] bg-[#374151] rounded-lg flex flex-row flex-wrap justify-center p-5">
